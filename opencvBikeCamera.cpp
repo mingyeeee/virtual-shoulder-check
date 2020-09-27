@@ -20,7 +20,9 @@ int main()
     namedWindow(window_detection_name);
     Mat frame, frame_HSV, frame_threshold;
 
+    //-------------CHANGE THIS STRING TO YOUR IMAGE NAME-----------------
     std::string image_path = "pic2.JPG";
+    //-------------------------------------------------------------------
     frame = imread(image_path, IMREAD_COLOR);
     if (frame.empty())
     {
