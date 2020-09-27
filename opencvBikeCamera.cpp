@@ -9,9 +9,10 @@ const int max_value_H = 360 / 2;
 const int max_value = 255;
 const String window_capture_name = "frame";
 const String window_detection_name = "hsvframe";
+//-----------------CHANGE THESE VALUES-------------------
 int low_H = 100, low_S = max_value*0.02, low_V = max_value*0.25;
 int high_H = 150, high_S = max_value*0.26, high_V = max_value*0.41;
-
+//---------------------------------------------------------
 
 int main()
 {
