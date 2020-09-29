@@ -5,9 +5,10 @@ A bicycle rear view camera that alerts you when something is approaching you usi
 
 ## Target Features to be Built into the Custom Image
 
-- [ ] `build-essential`
-- [ ] OpenCV Library for cpp and python3
+- [x] `build-essential`
+- [x] OpenCV Library for cpp and python3
 - [ ] Wireless AP to be launched at startup
-- [ ] Cloud9 Web IDE
+- [x] Cloud9 Web IDE
 - [ ] SFTP or SMB for quick file access
-- [ ] Bonjour Network Discovery
+- [x] Bonjour Network Discovery
+- [ ] Add c9 to `systemctl` to be launched at startup
