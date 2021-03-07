@@ -1,3 +1,5 @@
+# 2021-03-07 No longer using Opencv, using Tensorflow Lite for Micros. Link to updated repo [here](https://github.com/mingyeeee/tinyML-shoulder-check)
+
 # Virtual Shoulder Check
 A bicycle rear view camera that alerts you when something is approaching you using OpenCV
 
